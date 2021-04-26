@@ -2137,3 +2137,76 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.26-14.50.50:449][123]SourceControl:     git commit --amend --reset-author
 [2021.04.26-14.50.50:449][123]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
 [2021.04.26-14.50.50:454][123]SourceControl: Commited [master b859f2d] Grass.
+[2021.04.26-14.52.51:768][ 24]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2021.04.26-14.52.53:210][197]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.04.26-14.53.00:871][106]Cmd: TRANSACTION UNDO
+[2021.04.26-14.53.00:871][106]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.04.26-14.53.16:853][850]Cmd: TRANSACTION UNDO
+[2021.04.26-14.53.16:853][850]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.04.26-14.56.15:851][922]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape6)
+[2021.04.26-14.56.16:217][961]LogEditorViewport: Clicking Background
+[2021.04.26-14.56.53:758][155]Cmd: TRANSACTION UNDO
+[2021.04.26-14.56.53:758][155]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.04.26-14.56.53:968][155]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2021.04.26-14.56.53:973][155]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2021.04.26-14.56.53:977][155]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2021.04.26-14.56.53:982][155]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2021.04.26-14.57.08:347][715]Cmd: TRANSACTION UNDO
+[2021.04.26-14.57.08:347][715]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.04.26-14.57.08:764][715]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2021.04.26-14.57.08:768][715]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2021.04.26-14.57.08:772][715]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2021.04.26-14.57.08:777][715]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2021.04.26-14.57.08:781][715]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2021.04.26-14.57.08:785][715]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2021.04.26-14.57.21:810][217]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape6)
+[2021.04.26-14.57.40:592][150]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape6)
+[2021.04.26-14.57.55:649][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Mall-Map" FILE="D:/Alex Allen FMP Y1 Gr2/FMP-Repository/Content/FirstPersonBP/Maps/Mall-Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.26-14.57.55:678][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.04.26-14.57.55:791][433]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2021.04.26-14.57.55:794][433]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2021.04.26-14.57.55:798][433]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2021.04.26-14.57.55:801][433]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2021.04.26-14.57.55:804][433]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2021.04.26-14.57.55:807][433]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2021.04.26-14.57.55:811][433]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2021.04.26-14.57.55:814][433]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2021.04.26-14.57.57:053][433]LogSavePackage: Moving 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository/Saved/Mall-Map18F0256A4F877EA4E7CF35A6EE9F3BE3.tmp' to 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository/Content/FirstPersonBP/Maps/Mall-Map.umap'
+[2021.04.26-14.57.57:147][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Mall-Map_BuiltData" FILE="D:/Alex Allen FMP Y1 Gr2/FMP-Repository/Content/FirstPersonBP/Maps/Mall-Map_BuiltData.uasset" SILENT=true
+[2021.04.26-14.57.57:558][433]LogSavePackage: Moving 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository/Saved/Mall-Map_BuiltDataEBFAAA00448B57D95FAE45A791F6C348.tmp' to 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository/Content/FirstPersonBP/Maps/Mall-Map_BuiltData.uasset'
+[2021.04.26-14.57.57:570][433]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.26-14.57.57:570][433]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Mall-Map.Mall-Map
+[2021.04.26-14.57.57:570][433]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/Mall-Map_BuiltData.Mall-Map_BuiltData
+[2021.04.26-14.58.01:476][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.07:384][485]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/Alex Allen FMP Y1 Gr2/FMP-Repository'
+[2021.04.26-14.58.13:600][485]LogSlate: Window 'Submit Files' being destroyed
+[2021.04.26-14.58.15:856][485]LogSourceControl: commit successful: [master b18cc22] mount
+[2021.04.26-14.58.15:900][485]SourceControl: [master b18cc22] mount
+[2021.04.26-14.58.15:900][485]SourceControl:  Committer: Alexander Allen <aa05253299@priestley.ac.uk>
+[2021.04.26-14.58.15:900][485]SourceControl: Your name and email address were configured automatically based
+[2021.04.26-14.58.15:900][485]SourceControl: on your username and hostname. Please check that they are accurate.
+[2021.04.26-14.58.15:900][485]SourceControl: You can suppress this message by setting them explicitly. Run the
+[2021.04.26-14.58.15:900][485]SourceControl: following command and follow the instructions in your editor to edit
+[2021.04.26-14.58.15:900][485]SourceControl: your configuration file:
+[2021.04.26-14.58.15:900][485]SourceControl:     git config --global --edit
+[2021.04.26-14.58.15:900][485]SourceControl: After doing this, you may fix the identity used for this commit with:
+[2021.04.26-14.58.15:900][485]SourceControl:     git commit --amend --reset-author
+[2021.04.26-14.58.15:900][485]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2021.04.26-14.58.15:905][485]SourceControl: Commited [master b18cc22] mount.
